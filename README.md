@@ -22,3 +22,4 @@
 - [ ] Bookmark website or make sure browsers are synced with cloud  
 - [ ] Offline datas in add-ons e.g., One tab  
 - [ ] Note (in case of Mac)  
+- [ ] Files inside Virtual Machine
